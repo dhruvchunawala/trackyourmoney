@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://dhruvchunawala.github.io/tme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.18.1",
     "node": "^8.10.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
