@@ -2,7 +2,6 @@
   "name": "expense-tracking-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://dhruvchunawala.github.io/tme",
   "dependencies": {
     "axios": "^0.19.2",
     "node": "^8.10.0",
@@ -15,8 +14,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build"
   },
   "devDependencies": {
     "gh-pages": "^2.2.0"
