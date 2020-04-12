@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import Summary from './Summary';
 import Table from './Table';
 import * as RecordsAPI from '../utils/RecordsAPI';
-import { Navbar, Nav, FormControl, But } from 'react-bootstrap';
+// import { Navbar, Nav, FormControl, But } from 'react-bootstrap';
 import '../App.css';
 class App extends Component {
     constructor() {
